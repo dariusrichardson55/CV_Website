@@ -1,0 +1,134 @@
+.labels {
+  font-size: small;
+  margin-top: 4%;
+}
+
+.Skills_container {
+  position: absolute;
+  width: 100%;
+  background-color: #ddd;
+  margin-right: 0;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  width: 10px;
+}
+
+.Csharp {
+  width: 50%;
+  background-color: #4caf50;
+}
+
+.Cplusplus {
+  width: 40%;
+  background-color: #2196f3;
+}
+
+.HTML {
+  width: 90%;
+  background-color: #f44336;
+}
+
+.CSS {
+  width: 80%;
+  background-color: #808080;
+}
+
+.Javascript {
+  width: 40%;
+  background-color: #7c05ca;
+}
+
+.Node_js {
+  width: 45%;
+  background-color: #10db5e;
+}
+
+.Agile_Methodology {
+  width: 70%;
+  background-color: #8b5814;
+}
+
+.technical-skills {
+  /* background-image: url('../src/components/images/img-1.jpg'); */
+  position: relative;
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  /* color: #fff; */
+  font-size: 100px;
+}
+
+.main_skills_container {
+  position: absolute;
+  left: 20px;
+  padding: 1rem;
+  top: 100px;
+  width: 90%;
+}
+
+@media screen and (max-width: 960px) {
+  .labels {
+    font-size: small;
+    margin-top: 6%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .labels {
+    font-size: small;
+    margin-top: 4%;
+  }
+}
+
+@media screen and (max-width: 767px) and (min-width: 500px) {
+  .main_skills_container {
+    position: absolute;
+    left: 20px;
+    padding: 1rem;
+    top: 130px;
+    width: 92%;
+  }
+
+  .labels {
+    font-size: small;
+    margin-top: 6%;
+  }
+
+  .Skills_container {
+    position: absolute;
+    width: 100%;
+    background-color: #ddd;
+    margin-right: 0;
+  }
+}
+
+@media only screen and (max-device-width: 568px) and (min-device-width: 320px) {
+
+  .main_skills_container {
+    position: absolute;
+    left: 20px;
+    padding: 1rem;
+    top: 100px;
+    width: 55%;
+  }
+
+  .labels {
+    font-size: small;
+    margin-top: 25%;
+  }
+
+  .Skills_container {
+    position: absolute;
+    width: 140%;
+    background-color: #ddd;
+    margin-right: 0;
+  }
+
+
+
+}

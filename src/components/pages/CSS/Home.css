@@ -1,0 +1,407 @@
+
+
+.name_label {
+  position: relative;
+  left: 30%;
+  top: 19%;
+  width: 70%;
+  margin: 0;
+}
+
+.graduate_label {
+  position: relative;
+  left: 40%;
+  top: 21%;
+  color: grey;
+  font-size: 18px;
+  width: 20%;
+}
+
+.university_of_lincoln_label {
+  position: relative;
+  left: 30%;
+  top: 23%;
+  width: 70%;
+}
+
+.View_Linkedin_Profile {
+  position: relative;
+  top: -350px;
+  left: 70px;
+  text-align: center;
+  font-size: 10px;
+  width: 60%;
+}
+
+.View_Linkedin_Profile a {
+  position: relative;
+  top: 80px;
+  right: -3%;
+  color: black;
+  text-decoration: none;
+  transition: color 0.5s;
+  background-color: white;
+  border-radius: 12px;
+  padding: 15px 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.ProfileImage {
+  position: relative;
+  width: 50%;
+  height: 50%;
+  top: 70px;
+  left: 26%;
+}
+
+.Profile_Container {
+  position: relative;
+  bottom: 10px;
+  left: 2%;
+  width: 28%;
+  height: 460px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Personal_Profile_label {
+  position: relative;
+  width: 20%;
+  top: 100px;
+  left: 60%;
+}
+
+.Personal_Profile_Container {
+  position: absolute;
+  top: 230px;
+  left: 480px;
+  width: 60%;
+}
+
+
+@media screen and (max-width: 960px) {
+  
+  .labels {
+    font-size: small;
+    margin-top: 6%;
+  }
+
+  .ProfileImage {
+    position: relative;
+    width: 90%;
+    height: 70%;
+    top: 40px;
+    left: 2%;
+  }
+  .ProfileImage {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    top: 40px;
+    left: 26%;
+  }
+
+  .Profile_Container {
+    position: relative;
+    bottom: 22px;
+    left: 2%;
+    width: 44%;
+    height: 452px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .Personal_Profile_label {
+    position: relative;
+    width: 40%;
+    top: 70px;
+    left: 60%;
+  }
+
+  .Personal_Profile_Container {
+    position: absolute;
+    top: 200px;
+    left: 440px;
+    width: 40%;
+  }
+
+  .labels {
+    font-size: small;
+    margin-top: 4%;
+  }
+
+  .name_label {
+    position: relative;
+    left: 31%;
+    top: 74px;
+    width: 45%;
+    margin: 0;
+  }
+
+  .graduate_label {
+    position: relative;
+    left: 41%;
+    top: 80px;
+    color: grey;
+    font-size: 18px;
+    width: 15%;
+  }
+
+  .university_of_lincoln_label {
+    position: relative;
+    left: 33%;
+    top: 82px;
+    width: 70%;
+  }
+
+
+
+  .ProfileImage {
+    position: relative;
+    width: 45%;
+    height: 50%;
+    top: 70px;
+    left: 28%;
+  }
+
+  
+
+}
+
+@media screen and (max-width: 767px) {
+ 
+  .ProfileImage {
+    position: relative;
+    width: 35%; 
+    height: 75%;
+    top: 40px;
+    left: 2%;
+  }  
+
+  .Profile_Container {
+    position: relative;
+    top: 40px;
+    left: 5%;
+    width: 90%;
+    height: 270px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .Personal_Profile_label {
+    position: relative;
+    width: 30%;
+    top: 10px;
+    left: 290px;
+  }
+
+  .Personal_Profile_Container {
+    position: relative;
+    top: 20px;
+    left: 1%;
+    width: 98%;
+  }
+
+  .name_label {
+    position: relative;
+    left: 40%;
+    top: -100px;
+    width: 30%;
+    margin: 0;
+  }
+
+  .graduate_label {
+    position: relative;
+    left: 40%;
+    top: -110px;
+    color: grey;
+    font-size: 18px;
+    width: 15%;
+  }
+
+  .university_of_lincoln_label {
+    position: relative;
+    left: 40%;
+    top: -100px;
+    width: 30%;
+  }
+
+ 
+ 
+}
+
+@media screen and (max-width: 767px) and (min-width: 500px) {
+ 
+  .main_skills_container {
+    position: absolute;
+    left: 20px;
+    padding: 1rem;
+    top: 140px;
+    width: 92%;
+  }
+
+  .View_Linkedin_Profile {
+    position: relative;
+    bottom: 290px;
+    left: 120px;
+    text-align: center;
+    font-size: 10px;
+    width: 60%;
+  }
+  
+  .View_Linkedin_Profile a {
+    position: relative;
+    top: 130px;
+    right: 2%;
+    color: black;
+    text-decoration: none;
+    transition: color 0.5s;
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+
+ 
+  .Profile_Container {
+    position: relative;
+    top: 44px;
+    left: 3%;
+    width: 94%;
+    height: 266px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .Personal_Profile_Container {
+    position: relative;
+    top: 20px;
+    left: 1%;
+    width: 98%;
+    font-size: small;
+  }
+
+  
+
+  .ProfileImage {
+    position: relative;
+    width: 30%;
+    height: 75%;
+    top: 25px;
+    left: 2%;
+  }
+
+  .Personal_Profile_label {
+    position: relative;
+    width: 50%;
+    top: 10px;
+    left: 173px;
+  }
+
+  .name_label {
+    position: relative;
+    left: 40%;
+    top: -99px;
+    width: 50%;
+    margin: 0;
+  }
+
+  .graduate_label {
+    position: relative;
+    left: 40%;
+    top: -80px;
+    color: grey;
+    font-size: 18px;
+    width: 15%;
+  }
+
+  .university_of_lincoln_label {
+    position: relative;
+    left: 40%;
+    top: -70px;
+    width: 70%;
+  }
+}
+
+@media only screen and (max-device-width: 568px) and (min-device-width: 320px) {
+
+  .name_label {
+    position: relative;
+    left: 30%;
+    top: 19%;
+    width: 70%;
+    margin: 0;
+  }
+  
+  .graduate_label {
+    position: relative;
+    left: 40%;
+    top: 21%;
+    color: grey;
+    font-size: 18px;
+    width: 20%;
+  }
+  
+  .university_of_lincoln_label {
+    position: relative;
+    left: 30%;
+    top: 23%;
+    width: 70%;
+  }
+  
+  .View_Linkedin_Profile {
+    position: relative;
+    top: -350px;
+    left: 70px;
+    text-align: center;
+    font-size: 10px;
+    width: 60%;
+  }
+  
+  .View_Linkedin_Profile a {
+    position: relative;
+    top: 80px;
+    right: -3%;
+    color: black;
+    text-decoration: none;
+    transition: color 0.5s;
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .ProfileImage {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    top: 70px;
+    left: 26%;
+  }
+  
+  .Profile_Container {
+    position: relative;
+    top: 300px;
+    left: 4%;
+    width: 88%;
+    height: 460px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .Personal_Profile_label {
+    position: relative;
+    width: 55%;
+    top: 20px;
+    left: 28%;
+  }
+  
+  .Personal_Profile_Container {
+    position: absolute;
+    top: 135px;
+    left: 30px;
+    width: 85%;
+  }
+  
+}

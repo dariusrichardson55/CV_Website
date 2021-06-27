@@ -1,0 +1,19 @@
+.Work-Experience-Container {
+  position: relative;
+  left: 90px;
+  top: 50px;
+  width: 85%;
+  height: 480px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .Work-Experience-Container {
+    position: relative;
+    left: 90px;
+    top: 50px;
+    width: 85%;
+    height: 620px;
+  }
+
+}
