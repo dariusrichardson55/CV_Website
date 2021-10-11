@@ -16,7 +16,7 @@ function Home() {
         working on projects, individual or when leading in a team that would help move the team forward to success.</p>
       <div className="Profile_Container">
         <h2 style={{ fontFamily: "Times New Roman, Times, serif", textAlign: "center", position: "relative", top: "10px" }}>CV Details</h2>
-        <img className="ProfileImage" src={Profile_Image} alt="Profile Image"></img>
+        <img className="ProfileImage" src={Profile_Image} alt="ProfilePicture"></img>
         <h3 className="name_label">Darius Richardson</h3>
         <p className="graduate_label">Graduate</p>
         <p className="university_of_lincoln_label">University of Lincoln</p>

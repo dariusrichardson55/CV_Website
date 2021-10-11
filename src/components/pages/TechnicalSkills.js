@@ -18,7 +18,6 @@ export default function TechnicalSkills() {
                     <div className="Skills Cplusplus">40%</div>
                 </div>
 
-
                 <p className="labels">HTML</p>
                 <div className="Skills_container">
                     <div className="Skills HTML">90%</div>

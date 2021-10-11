@@ -1,5 +1,3 @@
-
-
 .name_label {
   position: relative;
   left: 30%;
@@ -78,9 +76,7 @@
   width: 60%;
 }
 
-
 @media screen and (max-width: 960px) {
-  
   .labels {
     font-size: small;
     margin-top: 6%;
@@ -154,8 +150,6 @@
     width: 70%;
   }
 
-
-
   .ProfileImage {
     position: relative;
     width: 45%;
@@ -163,20 +157,16 @@
     top: 70px;
     left: 28%;
   }
-
-  
-
 }
 
 @media screen and (max-width: 767px) {
- 
   .ProfileImage {
     position: relative;
-    width: 35%; 
+    width: 35%;
     height: 75%;
     top: 40px;
     left: 2%;
-  }  
+  }
 
   .Profile_Container {
     position: relative;
@@ -225,13 +215,9 @@
     top: -100px;
     width: 30%;
   }
-
- 
- 
 }
 
 @media screen and (max-width: 767px) and (min-width: 500px) {
- 
   .main_skills_container {
     position: absolute;
     left: 20px;
@@ -248,7 +234,7 @@
     font-size: 10px;
     width: 60%;
   }
-  
+
   .View_Linkedin_Profile a {
     position: relative;
     top: 130px;
@@ -261,9 +247,7 @@
     padding: 15px 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
-  
 
- 
   .Profile_Container {
     position: relative;
     top: 44px;
@@ -281,8 +265,6 @@
     width: 98%;
     font-size: small;
   }
-
-  
 
   .ProfileImage {
     position: relative;
@@ -320,12 +302,11 @@
     position: relative;
     left: 40%;
     top: -70px;
-    width: 70%;
+    width: 50%;
   }
 }
 
 @media only screen and (max-device-width: 568px) and (min-device-width: 320px) {
-
   .name_label {
     position: relative;
     left: 30%;
@@ -333,7 +314,7 @@
     width: 70%;
     margin: 0;
   }
-  
+
   .graduate_label {
     position: relative;
     left: 40%;
@@ -342,14 +323,14 @@
     font-size: 18px;
     width: 20%;
   }
-  
+
   .university_of_lincoln_label {
     position: relative;
     left: 30%;
     top: 23%;
     width: 70%;
   }
-  
+
   .View_Linkedin_Profile {
     position: relative;
     top: -350px;
@@ -358,7 +339,7 @@
     font-size: 10px;
     width: 60%;
   }
-  
+
   .View_Linkedin_Profile a {
     position: relative;
     top: 80px;
@@ -371,7 +352,7 @@
     padding: 15px 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
-  
+
   .ProfileImage {
     position: relative;
     width: 50%;
@@ -379,7 +360,7 @@
     top: 70px;
     left: 26%;
   }
-  
+
   .Profile_Container {
     position: relative;
     top: 300px;
@@ -389,19 +370,18 @@
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
-  
+
   .Personal_Profile_label {
     position: relative;
     width: 55%;
     top: 20px;
     left: 28%;
   }
-  
+
   .Personal_Profile_Container {
     position: absolute;
     top: 135px;
     left: 30px;
     width: 85%;
   }
-  
 }
